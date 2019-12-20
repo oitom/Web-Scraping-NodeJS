@@ -5,4 +5,5 @@ Scraping com Node.js
 
 ## Run
 * `npm install` para instalar as dependências
-* `node app` para rodar a app
+* `node app` para publicar a app
+* Acesso `http://localhost:3000/ipca` para executar a app
